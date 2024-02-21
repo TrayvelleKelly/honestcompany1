@@ -1,0 +1,10 @@
+
+
+.adcontainer{
+        border:solid #B9D08A ;
+        background-color: #B9D08A;
+        display: flex;
+        padding: 15px;
+        justify-content: space-evenly;
+        
+}
